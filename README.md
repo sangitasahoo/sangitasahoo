@@ -1,54 +1,68 @@
-# Hi there, I'm Sangita 👋
+<h1 align="center">Hi 👋, I'm Sangita Sahoo</h1>
+<h3 align="center">DevOps Engineer | Automating infrastructure, streamlining pipelines, keeping systems reliable</h3>
 
-## DevOps Engineer | Cloud Automation & Platform Reliability
-
-I help teams ship software faster and more safely by building automated, secure, and self-healing cloud infrastructure. My day-to-day revolves around turning manual, error-prone operations into repeatable pipelines — from provisioning servers to deploying containerized workloads on Kubernetes.
-
-📍 Based in Bengaluru, India | 🔗 [LinkedIn](https://linkedin.com/in/sangita-sahoo98) | 📧 sangitasahoo2025@gmail.com
-
----
-
-### 🧭 What I Do
-
-I work across the full DevOps lifecycle on AWS — designing infrastructure with code, automating deployments, hardening security, and keeping systems observable so issues get caught before they become incidents. Lately, I've also been exploring how AI agents can be woven into DevOps workflows, from self-hosted LLMs to agentic automation frameworks.
-
-### 🧰 My Toolbox
-
-**Languages:** Python, Bash/Shell
-
-**Cloud:** AWS — EC2, EKS, ECS, S3, VPC, IAM, KMS, Secrets Manager, DynamoDB, EMR
-
-**Containers & Orchestration:** Docker, Kubernetes, ArgoCD
-
-**Infrastructure as Code:** Terraform, CloudFormation, Ansible
-
-**Pipelines & Source Control:** Jenkins, CircleCI, GitHub Actions, Git, GitLab, Bitbucket
-
-**Monitoring:** Prometheus, CloudWatch
-
-**Emerging Interest — AI in DevOps:** Strands Agents, AWS AgentCore, self-hosted LLMs (Ollama)
-
-### 🌱 A Few Things I've Built
-
-- Rebuilt release pipelines end-to-end, cutting the time it took to get code from commit to production
-- Replaced manual server setup with Ansible playbooks so every environment — dev, staging, prod — looks the same by default
-- Stood up infrastructure-as-code workflows with Terraform and CloudFormation so environments can be torn down and rebuilt on demand
-- Locked down AWS networks and access policies while keeping deployment speed intact
-- Set up ArgoCD so Kubernetes deployments stay in sync with what's in Git, no manual intervention needed
-- Wired up Prometheus and CloudWatch dashboards so problems get flagged before users notice them
-- Spun up a private, self-hosted LLM on EC2 as an experiment in running AI infrastructure the same way we run everything else — securely and reproducibly
-
-### 🔭 Currently Exploring
-
-Building a CI/CD setup for an agentic AI application — figuring out how to manage databases, servers, and orchestration for systems where an AI agent, not just a human, is part of the deployment loop.
-
-### 🎓 Background
-
-B.Tech, BPUT, Odisha (2021)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sangita-sahoo98/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:sangitasahoo2025@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 📬 Get in Touch
+### 🔧 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sangitasahoo2025)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sangitasahoo2025@gmail.com)
+- 🛠️ I build and maintain CI/CD pipelines, cloud infrastructure, and observability systems
+- ☁️ Experienced with **AWS / Azure / GCP** — infrastructure as code, cost optimization, scaling
+- 🐳 Comfortable across the container lifecycle: **Docker, Kubernetes, Helm**
+- 📈 Focused on reliability — monitoring, alerting, incident response, SRE practices
+- 🌱 Currently exploring: *[e.g., GitOps, service mesh, platform engineering]*
+- 💬 Ask me about: CI/CD design, Kubernetes, Terraform, cloud cost optimization
+
+---
+
+### 🧰 Tech Stack
+
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform)
+
+**Containers & Orchestration**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+**CI/CD & Automation**  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+**Monitoring & Observability**  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Scripting & OS**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sangitasahoo&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangitasahoo&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangitasahoo&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangitasahoo&theme=minimal&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to connect or check out my pinned repos below!</i></p>
