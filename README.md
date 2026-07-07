@@ -48,6 +48,15 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- **Agentic AI CI/CD Pipeline** — Designed the DevOps workflow for a real-time agentic AI app, handling server, database, and orchestration setup with Strands Agents, AgentCore, Docker, and Ansible.
+- **GitOps Delivery on Kubernetes** — Set up ArgoCD-driven continuous delivery so deployed applications always match their desired Git state.
+- **Cloud Infra as Code** — Automated repeatable AWS environment provisioning using Terraform and CloudFormation, cutting manual setup effort.
+- **Self-Hosted AI on AWS** — Deployed a private LLM server on EC2, automated via user-data scripts and locked down to internal app traffic only.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
